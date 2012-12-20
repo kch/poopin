@@ -1,6 +1,6 @@
 # Poopin’
 
-This extension improves promoted tweets’ display…
+This Safari extension for Twitter improves promoted tweets’ display…
 
 …by replacing their content with “Poopin’”.
 
