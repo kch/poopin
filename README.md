@@ -10,6 +10,7 @@ Enjoy.
 
 [Download extension here](http://cl.ly/3I1P2h06003c).
 
-# License
+# Etc
 
-WTFPL: http://sam.zoy.org/wtfpl/
+© 2012 Caio Chassot, licensed under the [WTFPL](http://sam.zoy.org/wtfpl/).
+https://github.com/kch/poopin
