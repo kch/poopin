@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>1.1</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -33,7 +33,7 @@
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Replace promoted tweets' contents with “Poopin’”</string>
+	<string>Make promoted tweets interesting</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
