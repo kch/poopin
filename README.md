@@ -12,5 +12,5 @@ Enjoy.
 
 # Etc
 
-© 2012 Caio Chassot, licensed under the [WTFPL](http://sam.zoy.org/wtfpl/).
+© 2012 Caio Chassot, licensed under the [WTFPL](http://sam.zoy.org/wtfpl/).  
 https://github.com/kch/poopin
