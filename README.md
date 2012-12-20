@@ -8,7 +8,7 @@ Enjoy.
 
 # Install
 
-Binary here: http://cl.ly/3I1P2h06003c
+[Download extension here](http://cl.ly/3I1P2h06003c).
 
 # License
 
