@@ -8,7 +8,7 @@ Enjoy.
 
 # Install
 
-[Download extension here](http://cl.ly/2m411x2S1c1r).
+[Download extension here](http://cl.ly/Lj4K).
 
 # Etc
 
